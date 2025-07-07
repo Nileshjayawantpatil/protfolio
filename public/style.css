@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  text-decoration: none;
+}
+body {
+  color:white;
+  
+  background: rgba(30, 30, 30);
+}
